@@ -2,19 +2,9 @@
 title: "DSML4RE"
 ---
 
-# DSML4RE
+# Workshop on Data Science and Machine Learning for Querying and Analyzing Requirements
 
-## Workshop on Data Science and Machine Learning for Querying and Analyzing Requirements
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap">
-<div style="margin: 2px; padding: 5px"><a href="#theme-and-goals">Theme</a></div>
-<div style="margin: 2px; padding: 5px"><a href="#topics">Topics</a></div>
-<div style="margin: 2px; padding: 5px"><a href="#important-dates">Submission</a></div>
-<div style="margin: 2px; padding: 5px"><a href="#important-dates">Important Dates</a></div>
-<div style="margin: 2px; padding: 5px"><a href="#program">Program</a></div>
-<div style="margin: 2px; padding: 5px"><a href="#program-committee">Program Committee</a></div>
-<div style="margin: 2px; padding: 5px"><a href="#organizing-committee">Organizing Committee</a></div>
-</div>
+<p style="text-align: center;">March 18, 2019 - Essen, Germany</p>
 
 ## Theme and Goals
 
@@ -49,6 +39,12 @@ The workshop combines several topics, including but not limited to
 * **2019-02-04**: Acceptance/Rejection Notification
 * **2019-02-25**: Camera Ready deadline
 * **2019-03-18**: Workshop day
+
+## Location
+
+**ATLANTIC Congress Hotel Essen** Messeplatz 3, 45131 Essen, Germany
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5814.536889603053!2d6.997335531202104!3d51.43162961984177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8c3264560cf71%3A0x37cb3e21e867800e!2sATLANTIC+Congress+Hotel+Essen!5e0!3m2!1sen!2sus!4v1541109304321" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Program
 
