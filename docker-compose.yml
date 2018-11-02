@@ -1,0 +1,13 @@
+# README
+#
+# Image jekyll/jekyll:mine is based on jekyll/jekyll:latest
+# but with all dependencies installed (i.e. once the 'latest' tag has booted)
+# and afterwards committed
+
+jekyll:
+    image: jekyll/jekyll:mine
+    command: jekyll serve --watch --incremental
+    ports:
+        - 4000:4000
+    volumes:
+        - .:/srv/jekyll
