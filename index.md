@@ -65,7 +65,7 @@ Contributions should be formatted using the [LNCS](http://www.springer.com/compu
 
 **ATLANTIC Congress Hotel Essen** Messeplatz 3, 45131 Essen, Germany
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5814.536889603053!2d6.997335531202104!3d51.43162961984177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8c3264560cf71%3A0x37cb3e21e867800e!2sATLANTIC+Congress+Hotel+Essen!5e0!3m2!1sen!2sus!4v1541109304321" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe class="location-frame" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5814.536889603053!2d6.997335531202104!3d51.43162961984177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8c3264560cf71%3A0x37cb3e21e867800e!2sATLANTIC+Congress+Hotel+Essen!5e0!3m2!1sen!2sus!4v1541109304321" frameborder="0" allowfullscreen></iframe>
 
 ## Program
 

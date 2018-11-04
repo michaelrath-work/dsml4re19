@@ -54,6 +54,12 @@
     float: left;
 }
 
+.location-frame {
+    width: 100%;
+    height: 450px;
+    border: 0;
+}
+
 @media print, screen and (max-width: 960px) {
     header {
         padding:0;
