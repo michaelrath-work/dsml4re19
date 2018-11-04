@@ -5,7 +5,7 @@ title: "DSML4RE"
 # Workshop on Data Science and Machine Learning for Querying and Analyzing Requirements
 
 {:.header-data}
-March 18, 2019 - Essen, Germany
+March 18th, 2019 - Essen, Germany
 
 ## Theme and Goals
 
@@ -32,7 +32,24 @@ The workshop combines several topics, including but not limited to
 
 ## Submission
 
-*TBA*
+**Short papers** 3-6 pages.
+
+The authors should state the position to any of the workshop topics. The paper should reflect on past attempts (success or failure) to solve (sub)problems on the respective topic. Papers also can describe emerging ideas how to apply data science methods in distributed workflow systems. Applied uses cases and experiments in industrial environments are highly welcomed.
+
+The workshop organizer especially encourage practitioners to contribute by reporting how they currently address the initially formulated questions and satisfy their information needs in making decisions. Such a submission may report about the applied workflow and methods in their daily work.
+
+---
+
+Each paper will be reviewed by three members of the program committee. Accepted papers will appear in the **REFSQ’19** workshop proceedings and be presented at the workshop.
+
+Submitted papers are evaluated based on relevance, originality and soundness of argumentation.
+
+---
+
+Contributions should be formatted using the [LNCS](http://www.springer.com/computer/lncs?SGWID=0-164-12-73062-0) format. Please submit the papers in PDF format on EasyChair.
+
+{:.submission}
+[*TBA* Submit](https://www.easychair.org){:.submit-btn}
 
 ## Important Dates
 
@@ -65,3 +82,7 @@ The workshop combines several topics, including but not limited to
 
 * First
 * Second
+
+---
+
+*Last modified: November 4th, 2018*

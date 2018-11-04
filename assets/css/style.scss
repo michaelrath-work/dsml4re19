@@ -17,7 +17,31 @@
     margin: 0px;
     padding: 0px;
     font-size: 1rem;
-    // text-transform: uppercase;
+}
+
+.submit-btn {
+    background: #727272;
+    color: #fff;
+    text-decoration: none;
+    border: 0;
+}
+
+.submission a {
+    background: #727272;
+    display: block;
+    width: 200px;
+    padding: 0.5rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.0rem;
+    box-shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
+}
+
+.submission a:hover {
+    background: #525252;
+    color: #fff;
+    font-weight: normal;
+    transform: scale(0.95);
 }
 
 @media print, screen and (max-width: 960px) {
@@ -28,6 +52,7 @@
     .main-nav {
         grid-template-columns: 1fr 1fr;
         grid-gap: 0px;
+        padding-bottom: 10px;
     }
 
     .main-nav > div {
