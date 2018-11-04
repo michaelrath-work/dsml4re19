@@ -7,6 +7,9 @@ title: "DSML4RE"
 {:.header-data}
 March 18th, 2019 - Essen, Germany
 
+{:.header-data}
+Held in conjunction with [REFSQ’19](https://refsq.org/2019/welcome/)
+
 ## Theme and Goals
 
 Today, the development of software and systems is typically done in a heterogenous environment. Every stage of the development process and workflow involves dedicated tools including requirement management and design solutions, source code management and quality assurance (testing), whereas each tool creates its own development artifacts. This scattered and distributed landscape poses new challenges to satisfy stakeholders needs for making rational decisions, which requires access to all of the artifact sources.
@@ -40,7 +43,7 @@ The workshop organizer especially encourage practitioners to contribute by repor
 
 ---
 
-Each paper will be reviewed by three members of the program committee. Accepted papers will appear in the **REFSQ’19** workshop proceedings and be presented at the workshop.
+Each paper will be reviewed by three members of the program committee. Accepted papers will appear in the [REFSQ’19](https://refsq.org/2019/welcome/) workshop proceedings and be presented at the workshop.
 
 Submitted papers are evaluated based on relevance, originality and soundness of argumentation.
 
