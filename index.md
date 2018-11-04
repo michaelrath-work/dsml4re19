@@ -4,7 +4,8 @@ title: "DSML4RE"
 
 # Workshop on Data Science and Machine Learning for Querying and Analyzing Requirements
 
-<p style="text-align: center;">March 18, 2019 - Essen, Germany</p>
+{:.header-data}
+March 18, 2019 - Essen, Germany
 
 ## Theme and Goals
 

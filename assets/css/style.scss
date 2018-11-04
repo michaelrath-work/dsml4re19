@@ -3,16 +3,21 @@
 
 @import "{{ site.theme }}";
 
-.toc-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    flex-direction: column;
+.header-data {
+    text-align: center;
 }
 
-.toc-container > div {
+.main-nav {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr;
+}
+
+.main-nav > div {
     margin: 0px;
-    padding: 2px;
+    padding: 0px;
+    font-size: 1rem;
+    // text-transform: uppercase;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -20,11 +25,12 @@
         padding:0;
     }
 
-    .toc-container {
-        flex-direction: row;
+    .main-nav {
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 0px;
     }
 
-    .toc-container > div {
-        padding: 10px;
+    .main-nav > div {
+        padding: 2px;
     }
 }
