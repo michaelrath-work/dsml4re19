@@ -80,8 +80,17 @@ Contributions should be formatted using the [LNCS](http://www.springer.com/compu
 
 ## Organizing Committee
 
-* First
-* Second
+<div class="organizer">
+    <img src="img/michael.jpg">
+    <h4>Michael Rath</h4>
+    <p>Technische Universit&auml;t Ilmenau</p>
+</div>
+
+<div class="organizer">
+    <img src="img/kai.png">
+    <h4>Kai-Uwe Sattler</h4>
+    <p>Technische Universit&auml;t Ilmenau</p>
+</div>
 
 ---
 
