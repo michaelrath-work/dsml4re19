@@ -94,7 +94,3 @@ Contributions should be formatted using the [LNCS](http://www.springer.com/compu
     <h4>Kai-Uwe Sattler</h4>
     <p>Technische Universit&auml;t Ilmenau</p>
 </div>
-
----
-
-*Last modified: November 4th, 2018*
