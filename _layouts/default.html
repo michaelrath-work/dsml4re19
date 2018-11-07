@@ -10,6 +10,13 @@
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <script type="text/javascript">
+      function gen_mail_to_link(lhs,rhs,label) {
+          document.write("<a href=\"mailto");
+          document.write(":" + lhs + "@");
+          document.write(rhs + "?subject=REFSQ19: Workshop DSML4RE\">" + label + "<\/a>");
+      }
+    </script>
   </head>
   <body>
     <div class="wrapper">

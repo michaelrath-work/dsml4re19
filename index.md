@@ -86,11 +86,23 @@ Contributions should be formatted using the [LNCS](http://www.springer.com/compu
 <div class="organizer">
     <img src="img/michael.jpg">
     <h4>Michael Rath</h4>
-    <p>Technische Universit&auml;t Ilmenau</p>
+    <p>
+    <script type="text/javascript">
+        gen_mail_to_link('michael.rath', 'tu-ilmenau.de', 'Contact Michael');
+    </script>
+    </p>
+    <p class="narrow"><a href="https://www.tu-ilmenau.de/en/secsy/">Software Engineering for Safety-Critical Systems</a></p>
+    <p class="narrow">Technische Universit&auml;t Ilmenau</p>
 </div>
 
 <div class="organizer">
     <img src="img/kai.png">
     <h4>Kai-Uwe Sattler</h4>
-    <p>Technische Universit&auml;t Ilmenau</p>
+    <p>
+        <script type="text/javascript">
+            gen_mail_to_link('kus', 'tu-ilmenau.de', 'Contact Kai');
+        </script>
+    </p>
+    <p class="narrow"><a href="https://www.tu-ilmenau.de/en/dbis/">Databases and Information Systems Group</a></p>
+    <p class="narrow">Technische Universit&auml;t Ilmenau</p>
 </div>
