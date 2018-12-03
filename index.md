@@ -77,9 +77,13 @@ Contributions should be formatted using the [LNCS](http://www.springer.com/compu
 |1045 – 1145| **Paper Session 2 / Tool demonstration**  |
 |1145 - 1230 | **Interactive discussion**|
 
-## Programm Committee
+## Programme Committee
 
-*TBA*
+* Frank Houdek, Daimler AG, Germany
+* Jane Cleland-Huang, University of Notre Dame, South Bend, USA
+* Mehdi Mirakhorli, Rochester Institute of Technology, New York, USA
+* Barbara Paech, University of Heidelberg, Germany
+* Nadine Steinmetz, TU-Ilmenau, Germany
 
 ## Organizing Committee
 
