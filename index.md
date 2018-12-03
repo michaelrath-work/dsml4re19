@@ -49,7 +49,10 @@ Submitted papers are evaluated based on relevance, originality and soundness of 
 
 ---
 
-Contributions should be formatted using the [LNCS](http://www.springer.com/computer/lncs?SGWID=0-164-12-73062-0) format. Please submit the papers in PDF format on EasyChair.
+Contributions should be formatted using CEUR Style for one-column: [onecolceurws.sty](http://ceur-ws.org/Vol-XXX/samplestyles/onecolceurws.sty){:target="_blank"} from [http://ceur-ws.org/Vol-XXX/samplestyles/](http://ceur-ws.org/Vol-XXX/samplestyles/){:target="_blank"}.
+An example is [paper1.tex](http://ceur-ws.org/Vol-XXX/samplestyles/paper1.tex){:target="_blank"}. Also, the paper title should use the title format with capitalization for emphasis (e.g.; *Filling a PUT-FORM by Autocompletion*)
+
+Please submit the papers in PDF format on EasyChair.
 
 {:.submission}
 [*TBA* Submit](https://www.easychair.org){:.submit-btn}
