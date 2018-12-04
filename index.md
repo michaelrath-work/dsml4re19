@@ -82,6 +82,7 @@ Please submit the papers in PDF format on EasyChair.
 
 ## Programme Committee
 
+* Chetan Arora, University of Luxembourg, Luxembourg
 * Frank Houdek, Daimler AG, Germany
 * Jane Cleland-Huang, University of Notre Dame, South Bend, USA
 * Mehdi Mirakhorli, Rochester Institute of Technology, New York, USA
