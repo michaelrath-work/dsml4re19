@@ -83,6 +83,7 @@ Please submit the papers in PDF format on [EasyChair](https://easychair.org/conf
 ## Programme Committee
 
 * Chetan Arora, University of Luxembourg, Luxembourg
+* Christoph Borowski, Itemis AG, Paderborn, Germany
 * Frank Houdek, Daimler AG, Germany
 * Jane Cleland-Huang, University of Notre Dame, South Bend, USA
 * Mehdi Mirakhorli, Rochester Institute of Technology, New York, USA
