@@ -59,7 +59,7 @@ Please submit the papers in PDF format on [EasyChair](https://easychair.org/conf
 
 ## Important Dates
 
-* **2019-01-14**: Paper submission deadline for all workshops
+* **2019-01-21 (extended)**: Paper submission deadline for all workshops
 * **2019-02-04**: Acceptance/Rejection Notification
 * **2019-02-25**: Camera Ready deadline
 * **2019-03-18**: Workshop day
